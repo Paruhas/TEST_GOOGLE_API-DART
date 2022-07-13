@@ -2,3 +2,5 @@
 node_modules
 package-lock.json
 /private
+pubspec.lock
+.dart_tool/

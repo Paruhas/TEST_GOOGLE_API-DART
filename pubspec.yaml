@@ -1,0 +1,5 @@
+name: my_app
+environment: { sdk: ">=2.12.0 <3.0.0" }
+dependencies: { decimal: ^2.2.0, rational: ^2.2.0 }
+# dart pub global activate dotenv
+# dart pub global activate axios
